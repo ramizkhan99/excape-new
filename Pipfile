@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 inquirer = "*"
 toml = "*"
+opencv-python = "*"
+dlib = "*"
+termcolor = "*"
 
 [dev-packages]
 
